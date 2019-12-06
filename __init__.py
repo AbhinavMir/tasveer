@@ -1,1 +1,1 @@
-from tasvir.tasvir import download
+from tasveer.tasveer import download

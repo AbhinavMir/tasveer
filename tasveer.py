@@ -1,4 +1,4 @@
-def download(query,lim):
+def download():
     import os,sys
     class HiddenPrints:
         def __enter__(self):

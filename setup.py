@@ -1,13 +1,13 @@
 from distutils.core import setup
 setup(
-  name = 'tasvir',         # How you named your package folder (MyLib)
-  packages = ['tasvir'],   # Chose the same as "name"
+  name = 'tasveer',         # How you named your package folder (MyLib)
+  packages = ['tasveer'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Download test images from Google',   # Give a short description about your library
   author = 'Abhinav Srivastava',                   # Type in your name
   author_email = 'atg271@gmail.com',      # Type in your E-Mail
-  url = 'abhinavmir.github.io',   # Provide either the link to your github or to your website
+  url = 'https://abhinavmir.github.io',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/AbhinavMir/tasvir/archive/0.1.tar.gz',    # I explain this later on
   keywords = ['test', 'google', 'images','download'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
