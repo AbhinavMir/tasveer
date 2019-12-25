@@ -1,3 +1,5 @@
+Notice: This project is still under maintainence, I would love your support as I have to dedicate time to a few other projects as of now. The final project will be beautifully integrated into the Python ecosystem with perfect OOPs, Clean Code and the Zen of Python .☺
+
 # tasveer
 A Python Package to help you quickly download a few images for testing/validation purposes.
 
