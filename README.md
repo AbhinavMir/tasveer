@@ -25,4 +25,12 @@ Feel free to pull. Here's what I plan to work on-
 
 2. Change from prompt to argument
 
+Kindly refer to <a href="https://github.com/AbhinavMir/tasveer/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement"><i>issues</i></a> to see list of requested enhancements.
+
+If there is any problem you have, want quick answers or want to dicuss with core developers, kindly use the slack channel at <br> https://tasveer-group.slack.com/
+
+If you're new to the Open Source community,programming or Python, please message me for any doubts! ^_^
+
+Sincerely,
+Abhinav
    
