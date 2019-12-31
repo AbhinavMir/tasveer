@@ -1,6 +1,7 @@
 def download(**kwargs):
     """
     Downloads images based on query and count. 
+    If you do not include both a query and count, it will prompt utilizing input() 
     Downloaded to <PWD>/downloads
     
     Keyword arguments:
