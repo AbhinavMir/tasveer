@@ -1,4 +1,12 @@
-def download():
+def download(**kwargs):
+    """
+    Downloads images based on query and count. 
+    Downloaded to <PWD>/downloads
+    
+    Keyword arguments:
+        query -- image query string
+        count -- number of images to download
+    """
     import os,sys
     class HiddenPrints:
         def __enter__(self):
@@ -8,9 +16,18 @@ def download():
         def __exit__(self, exc_type, exc_val, exc_tb):
             sys.stdout.close()
             sys.stdout = self._original_stdout
-
-    query=input("Enter Query: ")
-    lim=int(input("Enter number of images: "))
+    
+    #check for query and count
+    if not 'query' in kwargs:
+    	query=input("Enter Query: ")
+    else:
+        query = kwargs['query']
+    
+    if not 'count' in kwargs:
+        lim=int(input("Enter number of images: "))
+    else:
+        lim=int(kwargs['count'])
+    
     with HiddenPrints():
         from google_images_download import google_images_download
         #instantiate the class
