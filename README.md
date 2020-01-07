@@ -24,7 +24,7 @@ tsv.download(query="<SEARCH_STRING>", count="<NUM_IMAGES_AS_INT>")
 # Example using parameters: downloads 4 images of books:
 tsv.download(query="books", count="4")
 ```
->**Note:** If you only include one parameter, it will fall back to prompting for the missing parameter. 
+>**Note:** If you only include one parameter, it will fall back to prompting for the missing parameter.
 
 
 **Future Work**
