@@ -7,15 +7,25 @@ A Python Package to help you quickly download a few images for testing/validatio
 
 Tasveer is a module to help you download tons of images!
 
+**Usage**
+
 ```
 pip install tasveer
 ```
 ```python
 import tasveer as tsv
-tsv.download()
-```
 
-Once you are done, you will get a prompt to enter queries and number of downloads to do. After you enter, your downloads will be saved in your current directory under downloads/query_entered.
+# Simple usage. Prompts the user for a query and number of images:
+tsv.download()
+
+# Using query and count parameters:
+tsv.download(query="<SEARCH_STRING>", count="<NUM_IMAGES_AS_INT>")
+
+# Example using parameters: downloads 4 images of books:
+tsv.download(query="books", count="4")
+```
+>**Note:** If you only include one parameter, it will fall back to prompting for the missing parameter.
+
 
 **Future Work**
 
