@@ -31,10 +31,6 @@ tsv.download(query="books", count="4")
 
 Feel free to pull. Here's what I plan to work on-
 
-1. Include a lightweight cleaning and processing function
-
-2. Change from prompt to argument
-
 Kindly refer to <a href="https://github.com/AbhinavMir/tasveer/issues"><i>issues</i></a> to see list of requested enhancements and easy tasks you could help the community with plus have your own OSS contribution!
 
 If there is any problem you have, want quick answers or want to dicuss with core developers, kindly use the slack channel at <br> https://tasveer-group.slack.com/
@@ -43,4 +39,8 @@ If you're new to the Open Source community,programming or Python, please message
 
 Sincerely,
 Abhinav
+
+**Contribution**
+<a href="https://github.com/steveyackey">Steve</a> for adding paramentric download function
+
    
