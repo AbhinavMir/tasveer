@@ -39,8 +39,9 @@ If you're new to the Open Source community,programming or Python, please message
 
 Sincerely,
 Abhinav
-<br><hr><br>
+<br><hr>
 **Contribution**<br>
 <a href="https://github.com/steveyackey">Steve</a> for adding paramentric download function
-
+<br><hr>
+Next Release on February 7th 2020.
    
