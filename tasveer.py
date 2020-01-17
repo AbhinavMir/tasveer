@@ -28,12 +28,23 @@ def download(**kwargs):
         lim=int(input("Enter number of images: "))
     else:
         lim=int(kwargs['count'])
+
+    if not 'width' in kwargs:
+        img_width=input("Enter the width of images: ")
+    else:
+        img_width=kwargs['width']
+
+    if not 'height' in kwargs:
+        img_height=input("Enter the height of images: ")
+    else:
+        img_height=kwargs['height']
     
     with HiddenPrints():
         from google_images_download import google_images_download
         #instantiate the class
         response = google_images_download.googleimagesdownload()
-        arguments = {"keywords":query,"limit":lim,"print_urls":True}
+        sizes = img_width + "," + img_height
+        arguments = {"keywords":query,"limit":lim,"exact_size":sizes,"print_urls":True}
         paths = response.download(arguments)
         print("Saved at\n___________________\n")
         for i in range(lim):
