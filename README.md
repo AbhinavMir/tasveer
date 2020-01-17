@@ -41,7 +41,7 @@ Sincerely,
 Abhinav
 <br><hr>
 **Contribution**<br>
-<a href="https://github.com/steveyackey">Steve</a> for adding paramentric download function
+<a href="https://github.com/steveyackey">Steve</a> for adding paramentric download function<br>
 <a href="https://github.com/Mansi145">Mansi</a> for adding a function to download images and adjust width and height
 <br><hr>
 Next Release on February 7th 2020.
