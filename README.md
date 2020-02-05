@@ -1,3 +1,4 @@
+Please read more at <a href="https://tasveer.readthedocs.io">tasveer.readthedocs.io</a><br><hr>
 Notice: This project is still under maintainence, I would love your support as I have to dedicate time to a few other projects as of now. The final project will be beautifully integrated into the Python ecosystem with perfect OOPs, Clean Code and the Zen of Python .☺
 
 # tasveer
@@ -43,6 +44,7 @@ Abhinav
 **Contribution**<br>
 <a href="https://github.com/steveyackey">Steve</a> for adding paramentric download function<br>
 <a href="https://github.com/Mansi145">Mansi</a> for adding a function to download images and adjust width and height
-<br><hr>
+<br>
+<a href="https://github.com/ambika1101">Ambika</a> for readthedocs.io documentation<br><hr>
 Next Release on February 7th 2020.
    
