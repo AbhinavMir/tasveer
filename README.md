@@ -1,6 +1,6 @@
 Please read more at <a href="https://tasveer.readthedocs.io">tasveer.readthedocs.io</a><br><hr>
 Notice: This project is still under maintainence, I would love your support as I have to dedicate time to a few other projects as of now. The final project will be beautifully integrated into the Python ecosystem with perfect OOPs, Clean Code and the Zen of Python .☺
-<br>
+<br><br>
 A Request for Pull Request: Please Run your Python code through a PEP8 formatter, but feel free to not do it incase you feel it decreases readability. Also, try to optimize performance whenever you can and include the *Zen of Python* in your code (or life!).
 <br><hr>
 # Tasveer
