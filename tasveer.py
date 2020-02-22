@@ -1,4 +1,4 @@
-	def download():
+def download():
     import os,sys
     class HiddenPrints:
         def __enter__(self):
