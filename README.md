@@ -73,5 +73,4 @@ Abhinav
 <a href="https://github.com/Mansi145">Mansi</a> for adding a function to download images and adjust width and height
 <br>
 <a href="https://github.com/ambika1101">Ambika</a> for readthedocs.io documentation<br><hr>
-Next Release on February 7th 2020.
    
