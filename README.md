@@ -1,8 +1,7 @@
 Please read more at <a href="https://tasveer.readthedocs.io">tasveer.readthedocs.io</a><br><hr>
 Notice: This project is still under maintainence. Feel free to open an issue or make a PR for improvements.
 
-<br><hr>
-# Tasveer
+## Tasveer
 A Python Package to help you quickly download a few images for testing/validation purposes.
 
 **Welcome to Tasveer**
